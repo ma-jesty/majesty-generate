@@ -13,3 +13,4 @@ https://github.com/ma-jesy/majesty-generate/blob/main/config/prompts.json
 
 ## License
 MIT
+https://github.com/ma-jesy/majesty-generate/blob/main/config/prompts.json
